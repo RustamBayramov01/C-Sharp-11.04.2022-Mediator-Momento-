@@ -1,0 +1,15 @@
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\MomentoDesignPattern.exe
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\MomentoDesignPattern.deps.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\MomentoDesignPattern.runtimeconfig.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\MomentoDesignPattern.runtimeconfig.dev.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\MomentoDesignPattern.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\ref\MomentoDesignPattern.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\MomentoDesignPattern.pdb
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\MomentoDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\MomentoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\MomentoDesignPattern.AssemblyInfo.cs
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\MomentoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\MomentoDesignPattern.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\ref\MomentoDesignPattern.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\MomentoDesignPattern.pdb
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\MomentoDesignPattern.genruntimeconfig.cache

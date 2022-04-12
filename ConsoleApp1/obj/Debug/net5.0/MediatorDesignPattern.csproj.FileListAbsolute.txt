@@ -1,0 +1,15 @@
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MediatorDesignPattern.exe
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MediatorDesignPattern.deps.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MediatorDesignPattern.runtimeconfig.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MediatorDesignPattern.runtimeconfig.dev.json
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MediatorDesignPattern.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\MediatorDesignPattern.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\MediatorDesignPattern.pdb
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MediatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MediatorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MediatorDesignPattern.AssemblyInfo.cs
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MediatorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MediatorDesignPattern.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\MediatorDesignPattern.dll
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MediatorDesignPattern.pdb
+C:\Users\LITHIUM\Desktop\Yeni klasör\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\MediatorDesignPattern.genruntimeconfig.cache

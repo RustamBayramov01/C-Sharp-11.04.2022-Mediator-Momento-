@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5vZSqZk5pVSkAWOqYEuXuJgzTspKJw14kkWtC7EkUxvmMfiKfPkTf6lLpbuOeUVpdKfbC9j6uceaU6HQC6skNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LITHIUM\\Desktop\\Yeni klasör\\ConsoleApp1\\ConsoleApp2\\MomentoDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LITHIUM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
